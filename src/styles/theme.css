@@ -1,0 +1,16 @@
+/* src/styles/theme.css */
+:root {
+  --bg-main: #f5f5f7;
+  --bg-card: #ffffff;
+  --bg-soft: #eef0f5;
+
+  --text-main: #111827;
+  --text-soft: #6b7280;
+
+  --accent: #6366f1;
+  --accent-soft: #e0e7ff;
+
+  --border-subtle: #e5e7eb;
+  --radius-xl: 1.25rem;
+  --shadow-soft: 0 18px 40px rgba(15, 23, 42, 0.08);
+}
