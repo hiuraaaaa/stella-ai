@@ -1,4 +1,4 @@
-// vercel.json
+
 {
   "version": 2,
   "builds": [{ "src": "vite.config.mts", "use": "@vercel/static-build" }],
