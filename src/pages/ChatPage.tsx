@@ -1,7 +1,7 @@
 // src/pages/ChatPage.tsx
-import { useChatContext } from '@/context/ChatProvider';
-import { ChatHome } from '@/components/chat/ChatHome';
-import { ChatWindow } from '@/components/chat/ChatWindow';
+import { useChatContext } from '../context/ChatProvider';
+import { ChatHome } from '../components/chat/ChatHome';
+import { ChatWindow } from '../components/chat/ChatWindow';
 
 export function ChatPage() {
   const { activeSession } = useChatContext();
