@@ -1,7 +1,7 @@
 // src/router/index.tsx
 import { createBrowserRouter } from 'react-router-dom';
-import { RootLayout } from '@/layout/RootLayout';
-import { ChatPage } from '@/pages/ChatPage';
+import { RootLayout } from '../layout/RootLayout';
+import { ChatPage } from '../pages/ChatPage';
 
 export const router = createBrowserRouter([
   {
